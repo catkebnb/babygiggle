@@ -129,7 +129,7 @@ a.disabled {
 }
 
 .seamless-loop {
-  background: url('assets/images/seamless-loop.webp') center center no-repeat;
+  background: url('seamless-loop.webp') center center no-repeat;
   background-size: contain;
   pointer-events: none;
   position: absolute;
